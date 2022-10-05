@@ -8,7 +8,6 @@
  
   HTML 5 & Bootstrap 5
   
-## Live Demo 
  <!--
  [Live Demo Link](https://xrichardroidx.github.io/My-Microverse-Portfolio/)
  -->
